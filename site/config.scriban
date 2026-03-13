@@ -4,7 +4,7 @@ extend "lunet-io/templates"
 # Project metadata - set these before calling site_project_init.
 site_project_name = "C TaskGraph"
 site_project_description = "A taskgraph system written in C99."
-site_project_baseurl = "initialprefabs.com"
+site_project_baseurl = "https://initialprefabs.com"
 site_project_github_user = "InitialPrefabs"
 site_project_github_repo = "initialprefabs-c-taskgraph"
 site_project_owner_name = "initialPrefabs, LLC"
